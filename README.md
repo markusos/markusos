@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**markusos/markusos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Experienced Data Engineer with over 10 years of experience, passionate about crafting and maintaining high-volume data systems. Currently a Principal Data Engineer at CipherHealth, collaborating on designing and implementing complex data pipelines.
 
-Here are some ideas to get you started:
+### Skills
+Proficient in a broad spectrum of technologies, including:
+- **Languages**: Python, Ruby, JavaScript, SQL
+- **Tools**: Apache Airflow, MongoDB, Snowflake, dbt (Data Build Tool), Terraform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+**KTH Royal Institute of Technology, Stockholm, Sweden**
+- Master of Science in Engineering
+  - Degree Programme in Computer Science and Engineering
+  - Master Thesis: Subtopic extraction using graph-based methods.
+- Bachelor of Science
+  - Major in Computer Science
+  - Bachelor’s Project: Genetic algorithms - How does its parameters affect evolution?
